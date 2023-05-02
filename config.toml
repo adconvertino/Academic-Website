@@ -1,4 +1,4 @@
-baseURL = "https://adconvertino.netlify.app/"
+baseURL = "https://adconvertino.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Academic Website"
