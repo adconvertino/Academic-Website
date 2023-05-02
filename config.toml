@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  orgName = "Alexandra D. Convertino, MS"
+  orgLocal = ""
+  description = "Academic Website"
+  favicon = "/favicon.ico"
+  logo = "/calico.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -117,31 +117,36 @@ enableEmoji = true
 
 [menu]
   # Configure header 
+ [[menu.header]]
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
   [[menu.header]]
     name = "About"
     title = "About Me"
     url = "/about/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/resources/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]

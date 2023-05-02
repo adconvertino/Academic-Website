@@ -8,11 +8,11 @@ audio_link_label:
 link_list_label: "Research Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Eating Disorders
-  url: 
+  url: "https://www.nimh.nih.gov/health/topics/eating-disorders"
 - name: Posttraumatic Stress Disorder
-  url: 
-- name: Sexual and Gender Minority
-  url: 
+  url: "https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd"
+- name: Sexual and Gender Minority Health Disparities
+  url: "https://www.nimh.nih.gov/about/organization/od/odwd/coordination-of-sexual-and-gender-minority-mental-health-research-at-nimh"
 ---
 
 ** index doesn't contain a body, just front matter above.
