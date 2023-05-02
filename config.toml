@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Academic Website"
   favicon = "/favicon.ico"
   logo = "/calico.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ""
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -109,6 +109,10 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/adconvertino/"
+  [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "/CV.pdf"
 
 [taxonomies]
   category = "categories"

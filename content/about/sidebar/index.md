@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Alexandra (Lexie) Convertino, MS"
+author: "Alexandra D. Convertino, MS"
 role: "Doctoral Candidate"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
