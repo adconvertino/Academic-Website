@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Please use this form to inquire about speaking engagements, opportunities to collaborate, or mentorship requests.
+description: <img src="/contact.jpg"><br><br>Please use this form to inquire about speaking engagements, opportunities to collaborate, or mentorship requests.
 draft: false
 formspree_form_id: xdovbeyd
 layout: split-right
