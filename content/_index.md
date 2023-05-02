@@ -2,7 +2,7 @@
 action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: I am a 6th year clinical psychology doctoral candidate currently on internship at the West Virginia University/Charleston Area Medical Center in Charleston, WV. I am on the job market beginning summer 2023. My primary interests focus on the intersection of stress and eating pathology. Recent research of mine is has focused on sexual minority individuals and minority stressor influence in eating pathology spectrum behaviors. My dissertation focuses on the overlap of traumatic stressors, PTSD symptoms, and eating pathology.
+description: I am a 6th year clinical psychology doctoral candidate currently on internship at the West Virginia University/Charleston Area Medical Center in Charleston, WV. I am on the job market beginning summer 2023. My primary interests focus on the intersection of stress and eating pathology. Recent research of mine is has focused on sexual minority individuals and minority stressor influence in eating pathology spectrum behaviors. My dissertation focuses on the overlap of chronic stressors (i.e., minority stress), traumatic events, posttraumatic stress disorder symptoms, and eating pathology.
 image_left: false
 images:
 - headshot.jpg
