@@ -14,7 +14,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: download
-  url: /Convertino2016.pdf
+  url: /publicationpdfs/Convertino2016.pdf
 subtitle: ""
 tags:
 title: An evaluation of the Aerie Real campaign&colon; Potential for promoting positive body image?

@@ -14,7 +14,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: download
-  url: /Rodgers2016.pdf
+  url: /publicationpdfs/Rodgers2016.pdf
 subtitle: ""
 tags:
 title: A qualitative study of the decision to engage in tanning behaviors among female college students

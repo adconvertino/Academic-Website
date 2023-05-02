@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Published papers and book chapters
+description: For a full list of updated citations, please visit [Google Scholar](https://scholar.google.com/citations?user=X3ymYq8AAAAJ&hl=en).
 layout: list
 show_author_byline: false
 show_button_links: true
