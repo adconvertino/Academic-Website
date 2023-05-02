@@ -137,20 +137,25 @@ enableEmoji = true
     url = "/publication/"
     weight = 3
   [[menu.header]]
+    name = "Presentations"
+    title = "Presentations"
+    url = "/presentation/"
+    weight = 4
+  [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Resources"
     title = "Resources"
     url = "/resources/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]
