@@ -2,7 +2,7 @@ baseURL = "https://adconvertino.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Academic Website"
-author = "Alexandra (Lexie) Convertino"
+author = "Alexandra (Lexie) Convertino, Ph.D."
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -28,11 +28,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Alexandra D. Convertino, MS"
+  orgName = "Alexandra D. Convertino, Ph.D."
   orgLocal = ""
   description = "Academic Website"
   favicon = "/favicon.ico"
-  logo = "/calico.png"
+  logo = "/logo.png"
   mainSections = ""
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -98,13 +98,17 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://www.researchgate.net/profile/Alexandra-Convertino"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/L_Convertino"
-  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-0073-6053"
+  [[params.social]]
+      icon      = "x-twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://x.com/L_Convertino"
+  [[params.social]]
+      icon      = "bluesky" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/convertino.bsky.social"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
