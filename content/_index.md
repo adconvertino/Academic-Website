@@ -2,15 +2,15 @@
 action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: I am a 6th year clinical psychology doctoral candidate currently on internship at the West Virginia University/Charleston Area Medical Center in Charleston, WV. I am on the job market beginning summer 2023. My primary interests focus on the intersection of stress and eating pathology. Recent research of mine is has focused on sexual minority individuals and minority stressor influence in eating pathology spectrum behaviors. My dissertation focuses on the overlap of chronic stressors (i.e., minority stress), traumatic events, posttraumatic stress disorder symptoms, and eating pathology.
+description: I am a clinical psychologist and assistant professor at CSU Dominguez Hills. My research largely focuses on the role of stress – defined broadly to include both traumatic stressors and everyday stress – in eating disorders and other body image-related disorders (e.g., body dysmorphic disorder, muscle dysmorphia). Part of my research focuses on the exploration of eating disorders in sexual minority (e.g., gay, lesbian, bisexual) individuals and another line of research that I am currently pursuing is focused on how traumatic stressors and posttraumatic stress disorder are associated with eating disorders. 
 image_left: false
 images:
 - headshot.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Doctoral Candidate, SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology
+subtitle: Assistant Professor, California State University Dominguez Hills
 text_align_left: true
-title: Alexandra D. Convertino, MS
+title: Alexandra D. Convertino, Ph.D.
 type: home
 ---
 

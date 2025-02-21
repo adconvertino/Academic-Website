@@ -6,11 +6,9 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Currently, I am a psychology resident in the [West Virginia University/Charleston Area Medical Center Doctoral Internship Training Program](https://medicine.hsc.wvu.edu/charleston/departments/behavioral-medicine-psychiatry/clinical-psychology-internship/). I am primarily seeing patients with disordered eating and emotion regulation difficulties.
+  I am a clinical psychologist and assistant professor as [California State University Dominguez Hills](https://www.csudh.edu/psychology/).
   
-  I am also a 6th year doctoral candidate at the [San Diego State University/University of Calfornia San Diego Joint Doctoral Program in Clinical Psychology](https://clinpsyc.sdsu.edu/) advised by [Dr. Aaron Blashill](https://bishlab.sdsu.edu/). I defended my dissertation in May 2023, focused on on the overlap of chronic stress, traumatic events, posttraumatic stress symptoms, and eating pathology.
-  
-    <h3>Experience</h3>
+    <h3>Education</h3>
   <small>
   <table>
   <tr>
@@ -26,12 +24,12 @@ intro: |
   <tr>
     <td style="vertical-align: top;"><img src="/JDP.png" alt="JDP Logo" width="200"></td>
     <td> </td>
-    <td style="vertical-align: top; text-align:left;">I am currently working on my PhD in clinical psychology under the mentorship of Dr. Aaron Blashill at the San Diego State University / University of California San Diego Joint Doctoral Program in Clinical Psychology. My research focus is on the intersection of stressors - including discrimination, traumatic stress, and others - on the development and course of eating pathology.</p></td>
+    <td style="vertical-align: top; text-align:left;">I completed my PhD in clinical psychology under the mentorship of Dr. Aaron Blashill at the San Diego State University / University of California San Diego Joint Doctoral Program in Clinical Psychology. My disseration was entitled, "Stress as a spectrum: Associations of stress and trauma with disordered eating."</p></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;"><img src="/WVUCAMC.png" alt="WVU/CAMC Logo" width="200"></td>
+    <td style="vertical-align: top;"><img src="/CAMC.png" alt="CAMC Logo" width="200"></td>
     <td> </td>
-    <td style="vertical-align: top; text-align:left;">I am currently completing my APA-accredited internship through West Virginia University / Charleston Area Medical Center. I am primarily seeing patients with disordered eating and emotion regulation difficulties.</p></td>
+    <td style="vertical-align: top; text-align:left;">I completed an APA-accredited internship through Charleston Area Medical Center. I primarily saw patients with disordered eating and emotion regulation difficulties.</p></td>
   </tr>
   </table></small>
 
