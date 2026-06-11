@@ -101,14 +101,14 @@ enableEmoji = true
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-0073-6053"
-  [[params.social]]
-      icon      = "x-twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://x.com/L_Convertino"
-  [[params.social]]
-      icon      = "bluesky" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://bsky.app/profile/convertino.bsky.social"
+[[params.social]]
+    icon      = "twitter"
+    icon_pack = "fab"
+    url       = "https://x.com/L_Convertino"
+[[params.social]]
+    icon      = "globe"
+    icon_pack = "fas"
+    url       = "https://bsky.app/profile/convertino.bsky.social"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
