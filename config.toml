@@ -102,12 +102,12 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0003-0073-6053"
 [[params.social]]
-    icon      = "twitter"
+    icon      = "x-twitter"
     icon_pack = "fab"
     url       = "https://x.com/L_Convertino"
 [[params.social]]
-    icon      = "globe"
-    icon_pack = "fas"
+    icon      = "bluesky"
+    icon_pack = "fab"
     url       = "https://bsky.app/profile/convertino.bsky.social"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
